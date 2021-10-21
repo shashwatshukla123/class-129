@@ -1,0 +1,12 @@
+We check the column header of final.csv there were 11 headers and 13 column of data.
+We fond that there we no column headers and they were repeating so, we added 2 new column headers [temp_planet_mass,temp_discovery_date]
+
+What is key lambda?
+In Python, lambda is a keyword used to define anonymous functions(functions with no name) and that's why they are known as lambda functions.
+Basically it is used for defining anonymous functions that can/can't take argument(s) and returns value of data/expression.
+example:- list.sort(key=lambda r:r[0])
+
+"a+" - The a+ creates a new file or opens an existing file for reading and writing ,
+and the file pointer position at the end of the file .
+
+"a" - Append - Opens a file for appending, creates the file if it does not exist
